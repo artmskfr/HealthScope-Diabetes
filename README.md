@@ -16,3 +16,4 @@ This project aims to predict the risk of diabetes using machine learning techniq
   - `utils/`: Helper functions
 - `tests/`: Unit tests
 - `results/`: Model results and visualizations
+- `docs/`: Research documents, notes, and reference materials
