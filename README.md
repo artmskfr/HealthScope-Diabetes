@@ -1,5 +1,5 @@
-# HealthScope-Diabetes
-# Diabetes Risk Prediction
+# HealthScope Diabetes
+Diabetes Risk Prediction
 
 ## Overview
 This project aims to predict the risk of diabetes using machine learning techniques based on medical data.
